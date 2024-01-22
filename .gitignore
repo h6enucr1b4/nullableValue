@@ -1,0 +1,23 @@
+# 編譯產物
+/build/
+/obj/
+
+# CMake 產生的檔案
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CMakeLists.txt
+
+# VSCode 設定
+/.vscode/
+
+# Windows 系統檔案
+Thumbs.db
+Desktop.ini
+
+# 其他不需要的檔案
+*.o
+*.exe
+*.log
+g++_compile.txt

@@ -1,0 +1,6 @@
+#ifndef NULLABLE_VALUE_DEFINE_H
+#define NULLABLE_VALUE_DEFINE_H
+
+#define NAMESPACE_NULLABLE_VALUE nullableValue
+
+#endif 
